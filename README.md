@@ -1,6 +1,4 @@
-# Classification
-
-### Lead Scoring Prediction
+# Lead Scoring Prediction
 
 ![image](https://user-images.githubusercontent.com/23097660/132638671-48862e15-23cc-4ccf-a3a7-6072723c199f.png)
 
@@ -31,4 +29,12 @@ https://bit.ly/3jX8vfG
   - Precision-Recall Tradeoff
   - Optimal threshold cutoff
 
+-------------------------------------------------
+  
 Thank You!
+
+- Author: Chinmay Gaikwad
+- Email: [chinmaygaikwad@gmail.com](chinmaygaikwad@gmail.com)
+- Twitter: [Chinmay Gaikwad](https://twitter.com/GaikwadChinmay)
+
+-------------------------------------------------
